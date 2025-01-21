@@ -25,7 +25,7 @@ pytest
 
 ### **Step 4: Run the Service**
 1. Start the API:
-   ```bash
+   
    uvicorn app.main:app --reload
 
 ## Open Swagger UI at http://127.0.0.1:8000/docs.
