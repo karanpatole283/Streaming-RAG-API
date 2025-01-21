@@ -3,7 +3,7 @@
 ## Installation
 1. Clone the repository:
    bash
-   git clone <repository_url>
+   git clone <https://github.com/karanpatole283/Streaming-RAG-API>
    cd streaming_rag_service
 ## Install dependencies:
 2. pip install -r requirements.txt
